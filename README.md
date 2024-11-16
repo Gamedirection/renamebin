@@ -57,10 +57,3 @@ We welcome contributions! Please fork the repository and submit a pull request w
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-- Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
-- Include a `LICENSE` file in your repository if you want to specify a license.
-- For contributions, you may want to add more detailed guidelines or a link to a `CONTRIBUTING.md` file.
