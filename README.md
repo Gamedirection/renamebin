@@ -1,7 +1,6 @@
 # renamebin
 This allows me to rename a "inject*.bin" to "inject.bin" for Hak5 Rubber Ducky
 
-```
 # Inject File Management Script
 
 This repository contains a bash script designed to manage `inject*.bin` files within a specified directory. The script handles the renaming and deletion of these files following specific logic.
